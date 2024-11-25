@@ -1,0 +1,290 @@
+{
+  "backgrounds": [],
+  "data": {
+    "Classy": {
+      "icon_path": "images/icons/classy.jpg",
+      "items": [
+        {
+          "path": "images/classy/1.jpg",
+          "keywords": ""
+        },
+        {
+          "path": "images/classy/2.jpg",
+          "keywords": ""
+        },
+        {
+          "path": "images/classy/3.jpg",
+          "keywords": ""
+        },
+        {
+          "path": "images/classy/4.jpg",
+          "keywords": ""
+        },
+        {
+          "path": "images/classy/5.jpg",
+          "keywords": ""
+        },
+        {
+          "path": "images/classy/6.jpg",
+          "keywords": ""
+        },
+        {
+          "path": "images/classy/7.jpg",
+          "keywords": ""
+        },
+        {
+          "path": "images/classy/8.jpg",
+          "keywords": ""
+        },
+        {
+          "path": "images/classy/9.jpg",
+          "keywords": ""
+        },
+        {
+          "path": "images/classy/10.jpg",
+          "keywords": ""
+        },
+        {
+          "path": "images/classy/11.jpg",
+          "keywords": ""
+        },
+        {
+          "path": "images/classy/12.jpg",
+          "keywords": ""
+        },
+        {
+          "path": "images/classy/13.jpg",
+          "keywords": ""
+        },
+        {
+          "path": "images/classy/14.jpg",
+          "keywords": ""
+        },
+        {
+          "path": "images/classy/15.jpg",
+          "keywords": ""
+        },
+        {
+          "path": "images/classy/16.jpg",
+          "keywords": ""
+        },
+        {
+          "path": "images/classy/17.jpg",
+          "keywords": ""
+        }
+      ]
+    },
+    "Aesthetic": {
+      "icon_path": "images/icons/aesthetic.jpg",
+      "items": [
+        {
+          "path": "images/aesthetic/12.png",
+          "keywords": "koshish"
+        },
+        {
+          "path": "images/aesthetic/13.png",
+          "keywords": "koshish neupane"
+        },
+        {
+          "path": "images/aesthetic/3.jpg",
+          "keywords": ""
+        },
+        {
+          "path": "images/aesthetic/4.jpg",
+          "keywords": ""
+        },
+        {
+          "path": "images/aesthetic/5.jpg",
+          "keywords": ""
+        },
+        {
+          "path": "images/aesthetic/6.jpg",
+          "keywords": ""
+        },
+        {
+          "path": "images/aesthetic/7.jpg",
+          "keywords": ""
+        },
+        {
+          "path": "images/aesthetic/8.jpg",
+          "keywords": ""
+        },
+        {
+          "path": "images/aesthetic/9.jpg",
+          "keywords": ""
+        },
+        {
+          "path": "images/aesthetic/10.jpg",
+          "keywords": ""
+        },
+        {
+          "path": "images/aesthetic/11.jpg",
+          "keywords": ""
+        },
+        {
+          "path": "images/aesthetic/1.jpg",
+          "keywords": ""
+        },
+        {
+          "path": "images/aesthetic/2.jpg",
+          "keywords": ""
+        }
+      ]
+    },
+    "Abstract": {
+      "icon_path": "images/icons/abstract.jpg",
+      "items": [
+        {
+          "path": "images/abstract/1.jpg",
+          "keywords": ""
+        },
+        {
+          "path": "images/abstract/2.jpg",
+          "keywords": ""
+        },
+        {
+          "path": "images/abstract/3.jpg",
+          "keywords": ""
+        },
+        {
+          "path": "images/abstract/4.jpg",
+          "keywords": ""
+        },
+        {
+          "path": "images/abstract/5.jpg",
+          "keywords": ""
+        },
+        {
+          "path": "images/abstract/6.jpg",
+          "keywords": ""
+        },
+        {
+          "path": "images/abstract/7.jpg",
+          "keywords": ""
+        },
+        {
+          "path": "images/abstract/8.jpg",
+          "keywords": ""
+        },
+        {
+          "path": "images/abstract/9.jpg",
+          "keywords": ""
+        },
+        {
+          "path": "images/abstract/10.jpg",
+          "keywords": ""
+        }
+      ]
+    },
+    "Bold": {
+      "icon_path": "images/icons/bold.jpg",
+      "items": [
+        {
+          "path": "images/bold/1.jpg",
+          "keywords": ""
+        },
+        {
+          "path": "images/bold/2.jpg",
+          "keywords": ""
+        },
+        {
+          "path": "images/bold/3.jpg",
+          "keywords": ""
+        },
+        {
+          "path": "images/bold/4.jpg",
+          "keywords": ""
+        },
+        {
+          "path": "images/bold/5.jpg",
+          "keywords": ""
+        },
+        {
+          "path": "images/bold/6.jpg",
+          "keywords": ""
+        },
+        {
+          "path": "images/bold/7.jpg",
+          "keywords": ""
+        },
+        {
+          "path": "images/bold/8.jpg",
+          "keywords": ""
+        },
+        {
+          "path": "images/bold/9.jpg",
+          "keywords": ""
+        },
+        {
+          "path": "images/bold/10.jpg",
+          "keywords": ""
+        },
+        {
+          "path": "images/bold/11.jpg",
+          "keywords": ""
+        },
+        {
+          "path": "images/bold/12.jpg",
+          "keywords": ""
+        },
+        {
+          "path": "images/bold/13.jpg",
+          "keywords": ""
+        }
+      ]
+    },
+    "Nature": {
+      "icon_path": "images/icons/nature.jpg",
+      "items": [
+        {
+          "path": "images/nature/1.jpg",
+          "keywords": ""
+        },
+        {
+          "path": "images/nature/2.jpg",
+          "keywords": ""
+        },
+        {
+          "path": "images/nature/3.jpg",
+          "keywords": ""
+        },
+        {
+          "path": "images/nature/4.jpg",
+          "keywords": ""
+        },
+        {
+          "path": "images/nature/5.jpg",
+          "keywords": ""
+        },
+        {
+          "path": "images/nature/6.jpg",
+          "keywords": ""
+        },
+        {
+          "path": "images/nature/7.jpg",
+          "keywords": ""
+        },
+        {
+          "path": "images/nature/8.jpg",
+          "keywords": ""
+        },
+        {
+          "path": "images/nature/9.jpg",
+          "keywords": ""
+        },
+        {
+          "path": "images/nature/10.jpg",
+          "keywords": ""
+        },
+        {
+          "path": "images/nature/11.jpg",
+          "keywords": ""
+        },
+        {
+          "path": "images/nature/12.jpg",
+          "keywords": ""
+        }
+      ]
+    }
+  }
+}
