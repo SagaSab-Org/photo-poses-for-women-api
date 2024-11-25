@@ -131,51 +131,6 @@
         }
       ]
     },
-    "Abstract": {
-      "icon_path": "images/icons/abstract.jpg",
-      "items": [
-        {
-          "path": "images/abstract/1.jpg",
-          "keywords": ""
-        },
-        {
-          "path": "images/abstract/2.jpg",
-          "keywords": ""
-        },
-        {
-          "path": "images/abstract/3.jpg",
-          "keywords": ""
-        },
-        {
-          "path": "images/abstract/4.jpg",
-          "keywords": ""
-        },
-        {
-          "path": "images/abstract/5.jpg",
-          "keywords": ""
-        },
-        {
-          "path": "images/abstract/6.jpg",
-          "keywords": ""
-        },
-        {
-          "path": "images/abstract/7.jpg",
-          "keywords": ""
-        },
-        {
-          "path": "images/abstract/8.jpg",
-          "keywords": ""
-        },
-        {
-          "path": "images/abstract/9.jpg",
-          "keywords": ""
-        },
-        {
-          "path": "images/abstract/10.jpg",
-          "keywords": ""
-        }
-      ]
-    },
     "Bold": {
       "icon_path": "images/icons/bold.jpg",
       "items": [
