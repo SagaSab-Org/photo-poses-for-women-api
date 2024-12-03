@@ -81,11 +81,11 @@
       "icon_path": "images/icons/aesthetic.jpg",
       "items": [
         {
-          "path": "images/aesthetic/12.png",
-          "keywords": "koshish"
+          "path": "images/aesthetic/1.jpg",
+          "keywords": ""
         },
         {
-          "path": "images/aesthetic/13.png",
+          "path": "images/aesthetic/2.jpg",
           "keywords": "koshish neupane"
         },
         {
@@ -125,11 +125,11 @@
           "keywords": ""
         },
         {
-          "path": "images/aesthetic/1.jpg",
+          "path": "images/aesthetic/12.jpg",
           "keywords": ""
         },
         {
-          "path": "images/aesthetic/2.jpg",
+          "path": "images/aesthetic/13.jpg",
           "keywords": ""
         },
         {
