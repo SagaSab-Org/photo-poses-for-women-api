@@ -303,6 +303,53 @@
           "keywords": ""
         }
       ]
-    }
+    },
+    "Selfie":{
+      "icon_path": "images/icons/selfie.jpg",
+      "items": [
+        {
+          "path": "images/selfie/1.jpg",
+          "keywords": ""
+        },
+        {
+          "path": "images/selfie/2.jpg",
+          "keywords": ""
+        },
+        {
+          "path": "images/selfie/3.jpg",
+          "keywords": ""
+        },
+        {
+          "path": "images/selfie/4.jpg",
+          "keywords": ""
+        },
+        {
+          "path": "images/selfie/5.jpg",
+          "keywords": ""
+        },
+        {
+          "path": "images/selfie/6.jpg",
+          "keywords": ""
+        },
+        {
+          "path": "images/selfie/7.jpg",
+          "keywords": ""
+        },
+        {
+          "path": "images/selfie/8.jpg",
+          "keywords": ""
+        },
+        {
+          "path": "images/selfie/9.jpg",
+          "keywords": ""
+        },
+        {
+          "path": "images/selfie/10.jpg",
+          "keywords": ""
+        }
+        
+      ]
+  
+     }
   }
 }
